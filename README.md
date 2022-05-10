@@ -3,3 +3,5 @@
 Une des solutions pour le puzzle Codingame de niveau moyen "Scrabble"
 
 A Python solution for the medium codingame puzzle "scrabble"
+
+#https://www.codingame.com/training/medium/scrabble
